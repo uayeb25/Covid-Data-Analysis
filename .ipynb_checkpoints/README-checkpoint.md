@@ -16,7 +16,3 @@ This is a project that explains the mains phases of data analysis implemetations
 
 
 
-
-
-
-
