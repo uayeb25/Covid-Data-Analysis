@@ -21,11 +21,6 @@ This is a project that explains the mains phases of data analysis implemetations
 
 
 
-sa: platzimaster
-pass: platzimastertest
-
-platzi-data-analysis.cerltapohorm.us-east-1.rds.amazonaws.com
-
 
 
 

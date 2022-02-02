@@ -1,4 +1,4 @@
-### Mostrar la ultima actividad de cada pais 
+--- Mostrar la ultima actividad de cada pais 
 with filter_1 as (
 	SELECT
 		location
